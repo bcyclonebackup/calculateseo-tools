@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Estimate SEO ROI in 10 Minutes",
+  "author": {
+    "@type": "Person",
+    "name": "Chris"
+  },
+  "datePublished": "2025-08-01",
+  "publisher": {
+    "@type": "Organization",
+    "name": "CalculateSEO"
+  },
+  "mainEntityOfPage": "https://www.calculateseo.com/blog/seo-roi-quick-guide"
+}

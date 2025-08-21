@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "CalculateSEO",
+  "url": "https://www.calculateseo.com/",
+  "logo": "https://www.calculateseo.com/assets/logo.png",
+  "sameAs": [
+    "https://github.com/your-username",
+    "https://twitter.com/your-handle"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is the SEO ROI Calculator free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it's free to use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you store my inputs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, calculations run in your browser."
+      }
+    }
+  ]
+}
