@@ -1,26 +1,50 @@
-# CalculateSEO — Free SEO Tools & Generators
+# CalculateSEO.com
 
-A curated set of free, practical SEO tools:
-- **SEO ROI Calculator** — estimate ROI from SEO campaigns  
-- **Backlink Checker** — quick domain/backlink lookups  
-- **JSON-LD Schema Generator** — valid markup for common entities  
-- **Hreflang Generator** — multilingual tag builder
-
-👉 Try them here: **https://www.calculateseo.com/**
+🚀 **CalculateSEO.com** is a free SEO calculator hub with modern tools designed for marketers, webmasters, and business owners.  
+We provide accurate, easy-to-use calculators to analyze and improve your website’s SEO performance.
 
 ---
 
-## Why this exists
-Most teams need lightweight, no-login tools to ship small wins weekly. These are built to be fast and practical.
+## 🔑 Key Features
 
-## Tool Links
-- SEO ROI Calculator: https://www.calculateseo.com/tools/seo-roi
-- Backlink Checker: https://www.calculateseo.com/tools/backlink-checker
-- Schema Generator: https://www.calculateseo.com/tools/json-ld-schema-generator
-- Hreflang Generator: https://www.calculateseo.com/tools/hreflang-generator
+- **On-Page & UX Tools**  
+  - [Word Count Calculator](https://www.calculateseo.com/calculators/word-count)  
+  - [Keyword Density Checker](https://www.calculateseo.com/calculators/keyword-density)  
+  - [Readability (Flesch Score)](https://www.calculateseo.com/calculators/readability)  
+  - [Title Tag Length Checker](https://www.calculateseo.com/calculators/title-tag-length)  
+  - [Meta Description Length Checker](https://www.calculateseo.com/calculators/meta-description)  
+  - [Color Contrast Accessibility Lab](https://www.calculateseo.com/calculators/color-contrast)
 
-## Example: Using the ROI Calculator
-```text
-Baseline: 10k sessions/mo, CVR 1.5%, AOV $60
-Goal: +20% organic over 90 days
-Outputs: Δrevenue, breakeven timeline, payback period
+- **SERP & Metadata**  
+  - [SERP Preview Generator](https://www.calculateseo.com/calculators/serp-preview)  
+
+- **Technical SEO Tools**  
+  - [Robots.txt Generator](https://www.calculateseo.com/calculators/robots-txt-generator)  
+  - [XML Sitemap Generator](https://www.calculateseo.com/calculators/sitemap-generator)  
+  - [JSON-LD Schema Generator](https://www.calculateseo.com/calculators/json-ld-schema-generator)  
+  - [Hreflang Tag Generator](https://www.calculateseo.com/calculators/hreflang-generator)  
+
+- **Link Building & Strategy**  
+  - [Backlink Checker](https://www.calculateseo.com/calculators/backlink-checker)  
+  - [Backlink Value Calculator](https://www.calculateseo.com/calculators/backlink-value)  
+  - [SEO ROI Calculator](https://www.calculateseo.com/calculators/seo-roi)  
+
+---
+
+## 🌟 Why Use CalculateSEO?
+
+- Free tools with **daily credits** (Pro plan available for heavy users).  
+- Actively developed, with **new AI-driven features coming soon**.  
+- Clean, ad-light, and user-first experience.  
+
+---
+
+## 🔗 Try It Out
+
+👉 Visit: [https://www.calculateseo.com](https://www.calculateseo.com)  
+
+---
+
+
+### 📌 Note  
+This repository is primarily for documentation and community updates. The production site is live at [CalculateSEO.com](https://www.calculateseo.com).
